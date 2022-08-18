@@ -19,3 +19,7 @@ Graph rendered through networkx package in output.png
 ### TF-IDF
 Ran TF-IDF vectorization through sklearn. Used cosine similarity for distance between courses.
 Workflow stored in course_sim.
+
+
+### Results
+See the [presentation](Class Connections.pdf) for the findings.
