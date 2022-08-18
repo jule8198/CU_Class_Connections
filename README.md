@@ -22,4 +22,4 @@ Workflow stored in course_sim.
 
 
 ### Results
-See the [presentation](Class Connections.pdf) for the findings.
+See the [presentation](Class%20Connections.pdf) for the findings.
