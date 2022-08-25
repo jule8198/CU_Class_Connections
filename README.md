@@ -13,7 +13,7 @@ Dictionary stored in course_info.json
 Creates directed graph of required and recommended prerequsites and equivalent classes.
 dfdrop.pkl is pandas dataframe of adjacency matrix, dfdrop is dataframe that excludes classes with no edges.
 Ran HITS algorithm. Eigenvalue and eigenvectors stored in auts.npy and hubs.npy
-Graph rendered through networkx package in output.png
+Graph rendered through networkx package shown [here](output.png).
 
 
 ### TF-IDF
